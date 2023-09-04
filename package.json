@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "selenium-webdriver": "^4.12.0"
+  },
+  "name": "hudl",
+  "version": "1.0.0",
+  "main": "loginPageTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
